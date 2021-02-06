@@ -1,0 +1,11 @@
+.imageSlider{
+    opacity: 0.8;
+    margin-right:10%;
+    margin-left: 10%;
+}
+.imageSlider_1{
+    margin: 10px;
+    padding: 3px;
+    width: 40%;
+    height: 50%;
+}
